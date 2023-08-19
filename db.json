@@ -1,0 +1,1277 @@
+[
+
+{
+"customerDTO": {
+
+        "id":3,
+        "name": "FELI",
+        "code": "FELI",
+        "active":"false",
+},
+ 
+"purchaseOrderDTO" : {
+
+       "id":1,
+       "orderNumber":"I0005678",
+        "name": "FELI",
+       "code": "FELI",
+       "active":"false",
+     "vendor":"Merivale",
+     "vendorId":1
+}
+
+"OrderProductDTOList":[
+  {
+    "id":1,
+     "purchaseOrderId":1,
+     "quantity":4,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":2,
+     "purchaseOrderId":1,
+     "quantity":2,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":3,
+     "purchaseOrderId":1,
+     "quantity":5,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  }
+]
+
+  "OrderProcessDTOList":  [
+{
+ "id":3,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":1,
+"failureStatusId":0
+},
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":11,
+"failureStatusId":0
+},
+{
+ "id":10,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":16,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":25,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":11,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":17,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":15,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},{
+ "id":18,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_ORDER_SAVE_START",
+"failureStatus": "UNABLE_TO_POST",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":37,
+"failureStatusId":0
+},
+{
+ "id":21,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":22,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+}
+
+]
+
+},
+{
+"customerDTO": {
+
+        "id":3,
+        "name": "FELI",
+        "code": "FELI",
+        "active":"false",
+},
+ 
+"purchaseOrderDTO" : {
+
+       "id":1,
+       "orderNumber":"I0005678",
+        "name": "FELI",
+       "code": "FELI",
+       "active":"false",
+     "vendor":"Merivale",
+     "vendorId":1
+}
+
+"OrderProductDTOList":[
+  {
+    "id":1,
+     "purchaseOrderId":1,
+     "quantity":4,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":2,
+     "purchaseOrderId":1,
+     "quantity":2,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":3,
+     "purchaseOrderId":1,
+     "quantity":5,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  }
+]
+
+  "OrderProcessDTOList":  [
+{
+ "id":3,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_ORDER_SAVE_START",
+"failureStatus": "UNABLE_TO_POST",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":36,
+"failureStatusId":0
+},
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":10,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":16,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":25,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":11,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_ORDER_SAVE_START",
+"failureStatus": "UNABLE_TO_POST",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":35,
+"failureStatusId":0
+},
+{
+ "id":17,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":15,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},{
+ "id":18,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":21,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":22,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+}
+
+]
+
+},
+{
+"customerDTO": {
+
+        "id":3,
+        "name": "FELI",
+        "code": "FELI",
+        "active":"false",
+},
+ 
+"purchaseOrderDTO" : {
+
+       "id":1,
+       "orderNumber":"I0005678",
+        "name": "FELI",
+       "code": "FELI",
+       "active":"false",
+     "vendor":"Merivale",
+     "vendorId":1
+}
+
+"OrderProductDTOList":[
+  {
+    "id":1,
+     "purchaseOrderId":1,
+     "quantity":4,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":2,
+     "purchaseOrderId":1,
+     "quantity":2,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":3,
+     "purchaseOrderId":1,
+     "quantity":5,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  }
+]
+
+  "OrderProcessDTOList":  [
+{
+ "id":3,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":10,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_ORDER_SAVE_START",
+"failureStatus": "UNABLE_TO_POST",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":34,
+"failureStatusId":0
+},
+{
+ "id":16,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":14,
+"failureStatusId":0
+},
+{
+ "id":25,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":11,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":17,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":15,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS_FINISH_SUCCESS_OR",
+"failureStatus": "FAILURE",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":33,
+"failureStatusId":0
+},{
+ "id":18,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":21,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":22,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+}
+
+]
+
+},
+{
+"customerDTO": {
+
+        "id":3,
+        "name": "FELI",
+        "code": "FELI",
+        "active":"false",
+},
+ 
+"purchaseOrderDTO" : {
+
+       "id":1,
+       "orderNumber":"I0005678",
+        "name": "FELI",
+       "code": "FELI",
+       "active":"false",
+     "vendor":"Merivale",
+     "vendorId":1
+}
+
+"OrderProductDTOList":[
+  {
+    "id":1,
+     "purchaseOrderId":1,
+     "quantity":4,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":2,
+     "purchaseOrderId":1,
+     "quantity":2,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":3,
+     "purchaseOrderId":1,
+     "quantity":5,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  }
+]
+
+  "OrderProcessDTOList":  [
+{
+ "id":3,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":10,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS_FAILURE",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":16,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS_FINISH",
+"failureStatus": "OKAY",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":29,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":25,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":11,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":17,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":15,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},{
+ "id":18,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":21,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"ARRAY_ARRAI",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":28,
+"failureStatusId":0
+},
+{
+ "id":22,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+}
+
+]
+
+},
+{
+"customerDTO": {
+
+        "id":3,
+        "name": "FELI",
+        "code": "FELI",
+        "active":"false",
+},
+ 
+"purchaseOrderDTO" : {
+
+       "id":1,
+       "orderNumber":"I0005678",
+        "name": "FELI",
+       "code": "FELI",
+       "active":"false",
+     "vendor":"Merivale",
+     "vendorId":1
+}
+
+"OrderProductDTOList":[
+  {
+    "id":1,
+     "purchaseOrderId":1,
+     "quantity":4,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":2,
+     "purchaseOrderId":1,
+     "quantity":2,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":3,
+     "purchaseOrderId":1,
+     "quantity":5,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  }
+]
+
+  "OrderProcessDTOList":  [
+{
+ "id":3,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":10,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "AND_OR",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":27,
+"failureStatusId":0
+},
+{
+ "id":16,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":25,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":11,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":17,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":15,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},{
+ "id":18,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":21,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS_ORDER_ARRAY_AND_OR",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":32,
+"failureStatusId":0
+},
+{
+ "id":22,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+}
+
+]
+
+},
+
+{
+"customerDTO": {
+
+        "id":3,
+        "name": "FELI",
+        "code": "FELI",
+        "active":"false",
+},
+ 
+"purchaseOrderDTO" : {
+
+       "id":1,
+       "orderNumber":"I0005678",
+        "name": "FELI",
+       "code": "FELI",
+       "active":"false",
+     "vendor":"Merivale",
+     "vendorId":1
+}
+
+"OrderProductDTOList":[
+  {
+    "id":1,
+     "purchaseOrderId":1,
+     "quantity":4,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":2,
+     "purchaseOrderId":1,
+     "quantity":2,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  },
+ {
+    "id":3,
+     "purchaseOrderId":1,
+     "quantity":5,
+     "unit":"CTN-4",
+      "unitPrice":159.94,
+      "createdTime":"2023-08-19T00:01:51.000+00:00",
+      "productionCode":"D0286"
+   
+  }
+]
+
+  "OrderProcessDTOList":  [
+{
+ "id":3,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":10,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS_FAILURE_AND",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":16,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"EVERYTHING",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":31,
+"failureStatusId":0
+},
+{
+ "id":25,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":11,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":13,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":17,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":15,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},{
+ "id":18,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+
+{
+ "id":14,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+},
+{
+ "id":21,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_WEST_NORTH_EAST",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":30,
+"failureStatusId":0
+},
+{
+ "id":22,
+"orderMailId"7,
+"purchaseOrderId":2,
+"processStatus":"FINISH_SUCCESS",
+"failureStatus": "SUCCESS",
+"botId":0,
+"createdTime": "2023-08-19T00:01:51.000+00:00",
+"processStatusId":10,
+"failureStatusId":0
+}
+
+]
+
+}
+
+]
